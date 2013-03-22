@@ -1,0 +1,9 @@
+- Put Your Seed Link At *Seed URL* Text Box
+
+- Choose The Path Of Your Corpus From Browse Button
+
+- Choose The Number Of Threads That Fit With Your Proccesor Power *Max 10 Thread*
+
+The More Threads You Choose ,The Faster Performance You Get ,The More CPU Usage You Afford :D
+
+- Then Start Your Crawling Journey :D
